@@ -7,9 +7,8 @@ from datetime import datetime
 # =========================
 # TELEGRAM CONFIG
 # =========================
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "PASTE_YOUR_CHAT_ID_HERE"
-
+BOT_TOKEN = 8295330451
+CHAT_ID = 6862414914
 # =========================
 # MOCK DATA (replace with real feed later)
 # =========================
